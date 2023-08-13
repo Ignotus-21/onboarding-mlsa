@@ -31,29 +31,23 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Eco-quest",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "An innovative app that aims to make reducing waste and promoting sustainability more accessible, engaging, and achievable for everyone. The app tracks and records users’ daily actions related to reducing waste and rewards them with coupons and money.",
+    url: "https://github.com/Ignotus-21/eco_quest",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Python Voice Assistant",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "This Python-based virtual assistant can perform basic tasks. The assistant can interact with the user through voice commands and provide information on a range of topics using Wikipedia. It can also play music, open websites, send emails and shut down or restart the system using os and psutil. Additionally, the assistant can make jokes using pyjokes, take screenshots using pyautogui, and provide the current date and time using DateTime.",
+    url: "https://github.com/Ignotus-21/VirtualAssistant",
   },
   {
-    title: "My Resume Site",
+    title: "Petology Website",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
-  },
-  {
-    title: "GitHub Codespaces and github.dev",
-    description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
-  },
+      "HTML-CSS website that allows pet lovers to see a VET on their screens and book an appointment anytime.",
+    url: "https://github.com/Ignotus-21/Petology",
+  }
 ];
 
 const Portfolio = () => {
