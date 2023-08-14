@@ -36,7 +36,7 @@ const skillsList = [
   "Python",
   "Github",
   "JAVA",
-  "HTML5 & CSS#",
+  "HTML5 & CSS3",
   "C / C++",
 ];
 
@@ -46,7 +46,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
+  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my AI & ML experience I continually look for new and better ways to make tech accessible by all.";
 
 const About = () => {
   return (
